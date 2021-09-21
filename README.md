@@ -3,7 +3,7 @@ It's a futuristic application. 🚀 <br />
 # Proposal 🔥
 An administrative dashboard was developed using the Chakra-UI library whose concept is the declarative interface.
 
-This application was developed in a fully responsive way..
+This application was developed in a fully responsive way.
 
 # Tecnologies 🚀
 Next.js ⚛️ <br />
