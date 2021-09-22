@@ -8,7 +8,7 @@ This application was developed in a fully responsive way.
 # Tecnologies 🚀
 Next.js ⚛️ <br />
 React ⚛️ <br />
-Styled-Components 💅🏻 <br />
+Emotion 💅🏻 <br />
 Chakra-Ui ⚛️❤️ <br />
 Typescript 🦕
 # How to get this repository? 🤔
