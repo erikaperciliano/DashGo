@@ -5,6 +5,12 @@ An administrative dashboard was developed using the Chakra-UI library whose conc
 
 This application was developed in a fully responsive way.
 
+# Result 🤓
+![login](https://user-images.githubusercontent.com/48223561/134416151-fb99aa9b-109c-4666-8e7c-95742da50dfe.png)
+
+![dashboard](https://user-images.githubusercontent.com/48223561/134416242-18b3dc4b-3687-4298-b174-c8c9ec68c2a7.png)
+
+
 # Tecnologies 🚀
 Next.js ⚛️ <br />
 React ⚛️ <br />
