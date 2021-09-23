@@ -16,7 +16,10 @@ Dashboard:
 ![dashboard](https://user-images.githubusercontent.com/48223561/134416242-18b3dc4b-3687-4298-b174-c8c9ec68c2a7.png)
 
 Users:
-![users](https://user-images.githubusercontent.com/48223561/134430184-52df7aab-931c-4301-8159-e157b00fa8e2.png)
+![users](https://user-images.githubusercontent.com/48223561/134544218-55969f19-5f3b-4d06-86cd-aa1e08e1668b.png)
+
+Create:
+![create](https://user-images.githubusercontent.com/48223561/134544540-6bf359a1-a44f-43f3-8518-a5be01ad7ad7.png)
 
 
 
