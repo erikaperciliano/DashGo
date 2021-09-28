@@ -16,7 +16,7 @@ export default function UserList() {
             <Header />
 
             <Flex  w='100%' my='6' maxW={1480} mx='auto' px='6'>
-                <Sidebar/>
+                <Sidebar />
 
                 <Box  flex='1' borderRadius={8} bg='gray.800' p='8'>
                     <Flex mb='8' justify='space-between' align='center'>
@@ -28,7 +28,6 @@ export default function UserList() {
                             fontSize='sm'
                             colorScheme='pink'
                             leftIcon={<Icon as={RiAddLine} fontSize='20'/>}
-                            
                         >
                             Criar novo
                         </Button>
