@@ -30,6 +30,8 @@ Emotion 💅🏻 <br />
 Chakra-Ui ⚛️❤️ <br />
 APEXCHART.JS 🤩 <br />
 React Hook Form 💥 <br />
+Yup 🤘 <br />
+Hookform  😉<br />
 Typescript 🦕
 # How to get this repository? 🤔
 To obtain this project, follow the steps:
