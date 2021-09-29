@@ -28,7 +28,8 @@ Next.js ⚛️ <br />
 React ⚛️ <br />
 Emotion 💅🏻 <br />
 Chakra-Ui ⚛️❤️ <br />
-APEXCHART.JS 🤩<br />
+APEXCHART.JS 🤩 <br />
+React Hook Form 💥 <br />
 Typescript 🦕
 # How to get this repository? 🤔
 To obtain this project, follow the steps:
