@@ -31,7 +31,8 @@ Chakra-Ui ⚛️❤️ <br />
 APEXCHART.JS 🤩 <br />
 React Hook Form 💥 <br />
 Yup 🤘 <br />
-Hookform  😉<br />
+Hookform  😉 <br />
+API MirageJS 🤯 <br />
 Typescript 🦕
 # How to get this repository? 🤔
 To obtain this project, follow the steps:
