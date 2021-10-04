@@ -34,6 +34,7 @@ Yup 🤘 <br />
 Hookform  😉 <br />
 API MirageJS 🤯 <br />
 Faker 😛 <br />
+React Query 🤙 <br />
 Typescript 🦕
 # How to get this repository? 🤔
 To obtain this project, follow the steps:
