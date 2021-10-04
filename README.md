@@ -33,6 +33,7 @@ React Hook Form 💥 <br />
 Yup 🤘 <br />
 Hookform  😉 <br />
 API MirageJS 🤯 <br />
+Faker 😛 <br />
 Typescript 🦕
 # How to get this repository? 🤔
 To obtain this project, follow the steps:
