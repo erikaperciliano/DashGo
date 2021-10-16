@@ -1,4 +1,4 @@
-import { Box, Flex, Heading, Button, Icon, Table, Thead, Tr, Th, Checkbox, Tbody, Td, Text, useBreakpointValue, flexbox } from "@chakra-ui/react";
+import { Box, Flex, Heading, Button, Icon, Table, Thead, Tr, Th, Checkbox, Tbody, Td, Text, useBreakpointValue } from "@chakra-ui/react";
 import Link from "next/link";
 import { useEffect } from "react";
 import { RiAddLine } from "react-icons/ri";
@@ -97,7 +97,11 @@ export default function UserList() {
                             </Tbody>
                         </Table>
 
-                        <Pagination/>
+                        <Pagination
+                            totalCountOfRegisters={200}
+                            currentPage={5}
+                            onPageChange={() => {}}
+                        />
                     </>
                    )}
                 </Box>

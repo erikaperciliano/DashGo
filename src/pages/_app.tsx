@@ -5,7 +5,7 @@ import { theme } from '../styles/theme';
 import { QueryClient, QueryClientProvider } from 'react-query';
 import { ReactQueryDevtools } from 'react-query/devtools';
 import { SidebarDrawerProvider } from '../context/SidebarDrawerContext';
-import { makeServer } from '../services/mirage/mirage';
+import { makeServer } from '../services/mirage/index';
 
 if(process.env.NODE_ENV === 'development') {
   makeServer();
